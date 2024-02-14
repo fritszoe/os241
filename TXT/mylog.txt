@@ -22,4 +22,4 @@ ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 05 L03 GitHub and git related, including commit, push, pull
 ZCZC W01 30 L64 Helping a friend (OS related problem)
 ZCZC W01 2520 L84 Relax, Rest, Nap, and Sleep
-ZCZC W00 180 L73 Gaming including Board Games.
+ZCZC W01 180 L73 Gaming including Board Games.
