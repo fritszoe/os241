@@ -4,5 +4,6 @@ Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
 * [Regular Expressions - Enough to be Dangerous](https://www.youtube.com/watch?v=bgBWp9EIlMM) --- Learn simple Regex
 * [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/) --- Learn the essential Linux/Unix commands you need to know with this cheat sheet. Includes commands for file management, permissions, environment variables, users, networking, processes, and more.
+* [GPG vs SSH keys](https://ubuntuforums.org/showthread.php?t=1402933) --- This discussion helps me to learn the differences between GPG and SSH.
 <br>
 <hr>
