@@ -16,5 +16,6 @@ Basic linux commands for creating a file
 * [Makefile Tutorial By Example](https://makefiletutorial.com/) --- Explaining how to make a Makefile that compiles c or c++ to executables
 * [C Output (Print Text)](https://www.w3schools.com/c/c_output.php) --- Explaining how print works in the C programming language
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- How to compress directory using tar and xz
+* [Sorting list of hex values in Python] (https://stackoverflow.com/questions/66803093/sorting-list-of-hex-values-in-python) --- Sorting hex numbers in python
 <br>
 <hr>
