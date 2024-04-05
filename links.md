@@ -17,5 +17,6 @@ Basic linux commands for creating a file
 * [C Output (Print Text)](https://www.w3schools.com/c/c_output.php) --- Explaining how print works in the C programming language
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- How to compress directory using tar and xz
 * [Sorting list of hex values in Python] (https://stackoverflow.com/questions/66803093/sorting-list-of-hex-values-in-python) --- Sorting hex numbers in python
+* [malloc vs mmap in C] (https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c) --- Explaining the difference between malloc and mmap which are surprisingly similiar 
 <br>
 <hr>
