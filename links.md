@@ -19,5 +19,6 @@ Basic linux commands for creating a file
 * [Sorting list of hex values in Python] (https://stackoverflow.com/questions/66803093/sorting-list-of-hex-values-in-python) --- Sorting hex numbers in python
 * [malloc vs mmap in C] (https://stackoverflow.com/questions/1739296/malloc-vs-mmap-in-c) --- Explaining the difference between malloc and mmap which are surprisingly similiar 
 * [Introduction to C](https://www.w3schools.com/c/c_intro.php) --- C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
+* [LFS 12.1 - How to build Linux From Scratch 12.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) --- A video tutorial of this person doing the LFS project
 <br>
 <hr>
